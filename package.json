@@ -1,0 +1,19 @@
+{
+  "name": "redis-client-aux",
+  "version": "1.0.0",
+  "description": "A simple redis wrapper to help with basic/common usage",
+  "main": "lib/redis-client-aux.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "rawfish",
+    "wrapper"
+  ],
+  "author": "Francesco Nwokeka <francesco.nwokeka@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}

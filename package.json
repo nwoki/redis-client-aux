@@ -1,6 +1,6 @@
 {
   "name": "redis-client-aux",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple redis wrapper to help with basic/common usage",
   "main": "lib/redis-client-aux.js",
   "scripts": {
